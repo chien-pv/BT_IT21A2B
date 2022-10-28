@@ -1,0 +1,45 @@
+[
+    {
+        "id":"1",
+        "firstName":"Nguyễn Nhất",
+        "lastName":"Vương",
+        "slug":"nguyen-nhat-vuong",
+        "gender":"1",
+        "birthday":"1999-06-22",
+        "address":"137 Đỗ Đăng Tuyển, Ái Nghĩa",
+        "job":"Sinh viên",
+        "phone":"0905880920",
+        "email":"nhatvuong99@gmail.com",
+        "image": "images/logo.png",
+        "school":"UDA"
+    },
+    {
+        "id":"2",
+        "firstName":"Nguyễn Nhị ",
+        "lastName":" Vương",
+        "slug":"nguyen-nhi-vuong",
+        "gender":"0",
+        "birthday":"2000-06-22", 
+        "address":"137 Đỗ Đăng Tuyển, Ái Nghĩa",
+        "job":"Sinh viên",
+        "phone":"0896204186",
+        "email":"nhatvuong999@gmail.com",
+        "image": "images/logo.png",
+        "school":"UDA"
+    },
+    {
+        "id":"3",
+        "firstName":"Nguyễn Tam ",
+        "lastName":" Vương",
+        "slug":"nguyen-tam-vuong",
+        "gender":"1",
+        "birthday":"2001-06-22",
+        "address":"137 Đỗ Đăng Tuyển, Ái Nghĩa",
+        "job":"Sinh viên",
+        "marital":"Độc thân",
+        "phone":"0896204186",
+        "email":"nhatvuong9999@gmail.com",
+        "image": "images/logo.png",
+        "school":"UDA"
+    }
+]
