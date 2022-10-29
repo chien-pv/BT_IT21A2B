@@ -1,0 +1,38 @@
+[
+  {
+    "id":"1",
+    "ho":"Phan Doan",
+    "ten":"Nhat",
+    "slug":"Phan_Doan_Nhat",
+    "gioiTinh":"nam",
+    "ngaySinh":"2003/03/20",
+    "queQuan":"Hue",
+    "ngheNghiep":"Sinh Vien",
+    "tinhTrang":"Doc Than",
+    "hinhAnh": "images/doannhat.jpg"
+  },
+  {
+    "id":"2",
+    "ho":"Phan Doan",
+    "ten":"Huy",
+    "slug":"Phan_Doan_Huy",
+    "gioiTinh":"nu",
+    "ngaySinh":"2001/03/20",
+    "queQuan":"Hue",
+    "ngheNghiep":"Sinh Vien",
+    "tinhTrang":"Doc Than",
+    "hinhAnh": "images/doannhat.jpg"
+  },
+  {
+    "id":"3",
+    "ho":"Phan Doan",
+    "ten":"Si",
+    "slug":"Phan_Doan_Si",
+    "gioiTinh":"nam",
+    "ngaySinh":"2005/03/20",
+    "queQuan":"Hue",
+    "ngheNghiep":"That Nghiep",
+    "tinhTrang":"Doc Than",
+    "hinhAnh": "images/doannhat.jpg"
+  }
+]
