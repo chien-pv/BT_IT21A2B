@@ -9,9 +9,7 @@ app.use(express.json())
 app.use(express.static(path.join(__dirname, "/public")))
 app.use(express.static(path.join(__dirname, "node_modules/bootstrap")))
 
-let userRouter = require("./routers/user")
-app.use("/", userRouter)
-// require("./routers/user")(app)
+require("./routers/user")(app)
 
 app.listen(port, () => {
 	console.log(`server running: http://${hostname}:${port}`);
